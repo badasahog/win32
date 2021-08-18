@@ -9,7 +9,7 @@ ms.date: 05/31/2018
 
 # Shader Visible Descriptor Heaps
 
-Shader visible descriptor heaps, are descriptor heaps that can be referenced by shaders through descriptor tables.
+Shader visible descriptor heaps are descriptor heaps that can be referenced by shaders through descriptor tables.
 
 -   [Overview](#overview)
 -   [An example](#an-example)
